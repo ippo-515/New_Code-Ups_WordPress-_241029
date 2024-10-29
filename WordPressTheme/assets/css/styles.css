@@ -333,38 +333,6 @@ select::-ms-expand {
 	text-align: center;
 }
 
-.c-section-header,
-.c-section-header--white {
-	color: #391E88;
-	text-align: center;
-}
-
-.c-section-header__jatitle {
-	font-size: 0.8125rem;
-	font-weight: 700;
-	letter-spacing: 0.05em;
-	line-height: 1;
-}
-
-.c-section-header__engtitle {
-	font-family: "Montserrat", sans-serif;
-	font-size: 1.875rem;
-	font-weight: 700;
-	letter-spacing: 0.05em;
-	line-height: 1.2333333333;
-	text-transform: uppercase;
-}
-
-.c-section-header--white {
-	color: #fff;
-}
-
-.c-section-header__subpage {
-	font-size: 1.5rem;
-	font-weight: bold;
-	line-height: 1.5;
-}
-
 .c-to-top {
 	border: 1px solid;
 	border-radius: 50%;
@@ -1573,22 +1541,6 @@ a:hover {
 .c-page-link__prev,
 .c-page-link__next {
 	font-size: 0.875rem;
-}
-
-.c-section-header__jatitle {
-	font-size: 0.875rem;
-}
-
-.c-section-header__engtitle {
-	font-size: 2.25rem;
-}
-
-.c-section-header--left {
-	text-align: left;
-}
-
-.c-section-header__subpage {
-	font-size: 2rem;
 }
 
 .p-archive-home__item:not(:first-child) {
