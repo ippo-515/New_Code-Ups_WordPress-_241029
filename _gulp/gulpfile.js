@@ -186,6 +186,7 @@ const browserSyncOption = {
   // server: "../dist/", // ローカルサーバーのルートディレクトリ
   //WordPressの場合は↓を有効にする。その場合、↑(server)はコメントアウトする。
   proxy: "new-code-ups-wordpress.local", // ローカルサーバーのURL（WordPress）
+  port: 3002 // ポートを3002に設定
 };
 const browserSyncFunc = () => {
   browserSync.init(browserSyncOption);
